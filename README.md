@@ -12,8 +12,6 @@ This isn't just another Roblox GUI. It's a performance-optimized, user-friendly,
 
 ## 💎 Powerful Feature Set
 
-# ![Feed Your Pet Script - Auto Pump, Auto Collect, Auto Press & More! Mobile/PC 2025](https://i.ytimg.com/vi/2vSvU8NdD44/maxresdefault.jpg)
-
 The script offers a dynamic range of automation tools designed to give you complete control over your gameplay with minimal interaction. Here’s what makes this script stand out:
 
 - **Auto Pump**
